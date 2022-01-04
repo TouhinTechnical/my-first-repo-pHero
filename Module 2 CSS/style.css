@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    color: rgba(166, 43, 43,.9); /* RGB code */ 
+    font-size: 25px;
+    font-style: italic;
+}
+p{
+    color: #6737d6; /* hex code */
+    background-color: aqua;
+    width: 100%;
+    height: 50px;
+    font-weight: bold;
+    font-size: 20px;
+}
+h3{
+    background-color: blueviolet;
+    color: aquamarine;
+}
+#Putin{
+    color: chartreuse;
+    background-color: blue;
+}
+.Biden{
+    background-color: crimson;
+    color: #9ca096;
+}
+.sajek,
+.des{
+    background-color: transparent;
+}
+.title{
+    text-align: left;
+}
+.blog{
+    background-color: aquamarine;
+}
